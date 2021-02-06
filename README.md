@@ -4,4 +4,4 @@ Hi, I'm Bernardo. I work with Embedded Linux, specializing in cross-compilation 
 
 I'm currently working for the [IOTA Foundation](https://iota.org).
 
-Please check [honeycombOS](https://honeycombOS.github.io), an Embedded Linux Distribution tailored for IOTA nodes, clients and Tangle related tools. It is mainly based on [Poky](https://www.yoctoproject.org/software-item/poky/).
+Please check [ꙮ honeycombOS 🍯](https://honeycombOS.github.io), an Embedded Linux Distribution tailored for IOTA nodes, clients and Tangle related tools. It is mainly based on [Poky](https://www.yoctoproject.org/software-item/poky/).
